@@ -1,1 +1,1 @@
-# Parlagfu-Ga-l-Hunor-ft.-Szegedi-Levente
+# Parlagfu-Gaal-Hunor-ft.-Szegedi-Levente
