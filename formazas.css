@@ -34,6 +34,10 @@ h1 {
 #belso td {
     padding: 1pt;
 }
+#menu{
+    width: 100%;
+    border-collapse: collapse;
+}
 
 #menu td {
     height: 40px;
@@ -41,6 +45,7 @@ h1 {
     color: white;
     text-align: center;
     vertical-align: middle;
+    border-right: 1px solid white ;
 }
 
 #menu a {
